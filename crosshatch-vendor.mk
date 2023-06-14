@@ -781,6 +781,21 @@ PRODUCT_COPY_FILES += \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.secure_element@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.secure_element@1.1.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.sensors@2.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.sensors@2.0-impl.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.weaver@1.0-impl.nos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.weaver@1.0-impl.nos.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.hostapd@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.hostapd@1.0.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.hostapd@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.hostapd@1.1.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.hostapd@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.hostapd@1.2.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.hostapd@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.hostapd@1.3.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.supplicant@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.supplicant@1.0.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.supplicant@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.supplicant@1.1.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.supplicant@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.supplicant@1.2.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.supplicant@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.supplicant@1.3.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi.supplicant@1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi.supplicant@1.4.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi@1.0.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi@1.1.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi@1.2.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi@1.3.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi@1.3.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi@1.4.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi@1.4.so \
+    vendor/google/crosshatch/proprietary/vendor/lib64/android.hardware.wifi@1.5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.wifi@1.5.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib64/btaudio_offload_if.so \
     vendor/google/crosshatch/proprietary/vendor/lib64/camera/com.google.tuned.pixel3_imx355_normal.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.google.tuned.pixel3_imx355_normal.bin \
     vendor/google/crosshatch/proprietary/vendor/lib64/camera/com.google.tuned.pixel3_imx355_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.google.tuned.pixel3_imx355_wide.bin \
